@@ -1,0 +1,1 @@
+ERROR:root:Ошибка при получении цен с KuCoin: float() argument must be a string or a real number, not 'NoneType'
